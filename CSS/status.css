@@ -42,9 +42,9 @@ header>.MuiToolbar-gutters,
 }
 
 /* キャラアイコンを削除 */
-/*.MuiBadge-root {
-  display: none;
-}*/
+.MuiBadge-root {
+  height: 100px;
+}
 
 /* 全て非表示にする */
 .sc-fIosxK {
