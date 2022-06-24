@@ -5,10 +5,8 @@ body {
   overflow: hidden;
 }
 
-/* スキップボタン */
-.MuiIconButton-root
-/* 閉じるボタン */
-
+/* チャットボタン */
+.MuiIconButton-root,
 /* カットイン */
 .sc-tAExr,
 /* 背景 */
