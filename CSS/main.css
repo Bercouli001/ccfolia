@@ -1,33 +1,3 @@
-:root {
-  --background-color: rgb(0, 0, 0);
-  --background-padding: 8px 8px 8px 8px;
-  --border-color: rgb(255, 255, 255);
-  --border-image: url();
-  --border-width: 2px;
-  --border-radius: 0px;
-  --border-shadow: 0;
-  --font-color: rgb(255, 255, 255);
-  --font-color-shadow: 0;
-  --font-color-fail: rgb(245, 0, 87);
-  --font-color-fail-shadow: 0;
-  --font-color-success: rgb(33, 150, 243);
-  --font-color-success-shadow: 0;
-  --font-size: 1.5rem;
-  --font-shadow: 0;
-  --image-radius: 0%;
-  --width: 500px;
-  --line-clamp: 30;
-}
-
-/**************************
-　表示用CSS
-.sc-cNKqjZ>div:nth-child(1)>div>div>div:nth-last-child(-n+3) {
-    display: block !important;
-}
-**************************/
-/**************************
-　各種調整
-**************************/
 /* OBS */
 body {
   background-color: rgba(0, 0, 0, 0);
