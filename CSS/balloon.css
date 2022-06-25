@@ -42,7 +42,7 @@ header>.MuiToolbar-gutters,
 **************************/
 /* 全体の横幅 */
 .MuiPaper-root {
-  max-width: 960px;
+  max-width: 720px;
 }
 
 /* タイトルの方 */
@@ -67,14 +67,7 @@ header>.MuiToolbar-gutters,
 
 /* アイコン */
 .MuiPaper-root>img {
-  width: 120px;
-  height: 120px;
-  margin-bottom: 5px;
-  border-radius: 50%;
-  background: #F6F7F8;
-  border: solid 6px #302833;
-  object-fit: cover;
-  object-position: top;
+  display: none;
 }
 
 .MuiPaper-root>img[src=""] {
