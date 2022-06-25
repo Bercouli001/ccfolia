@@ -1,0 +1,78 @@
+/* OBS */
+body {
+  background-color: rgba(0, 0, 0, 0);
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+/* カットイン */
+.sc-tAExr,
+/* 背景 */
+.sc-ZOtfp,
+/* 盤面 */
+.sc-bGaVxB,
+/* キャラ */
+.sc-jKTccl,
+/* 吹き出し */
+.sc-edERGn,
+/* 名前 */
+.sc-caiLqq,
+/* 入力欄 */
+.sc-iUKqMP,
+/*バージョン表記*/
+.jss10,
+/* モーダル削除 */
+[role="presentation"],
+/* ヘッダー削除 */
+header>.MuiToolbar-gutters,
+/* 音量 */
+.sc-kYHfwS,
+/* 拡大縮小 */
+.sc-cVAmsi,
+/* 鉛筆ボタン */
+.sc-dkQkyq,
+/* 監視モード */
+.MuiSnackbar-root,
+/* スクロールバー */
+::-webkit-scrollbar {
+  display: none !important;
+}
+
+.sc-khQegj>.MuiPaper-root {
+  width: 100%;
+}
+
+hr {
+  display: none;
+}
+
+.MuiDrawer-paperAnchorDockedRight {
+  border: none;
+}
+
+.MuiListItem-root {
+  padding: var(--background-padding);
+  background: var(--background-color);
+  border: solid var(--border-width) var(--border-color);
+  border-radius: var(--border-radius);
+  border-image: var(--border-image);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: border-box;
+  box-shadow: var(--border-shadow);
+  align-items: center;
+}
+
+.MuiListItemAvatar-alignItemsFlexStart {
+  margin: 0px;
+}
+
+.sc-bBHHxi {
+  background: transparent;
+  border-radius: var(--image-radius);
+}
+
+.MuiPaper-root {
+  background-color: transparent;
+}
